@@ -35,7 +35,7 @@ Whatever action you selected on your turn will not affect the enemy until their 
 takes will not affect you until after you decide what action to take.
 If you choose to `shield`, the incoming effect of the enemy's action will be diminished.
 
-Attacking, kicking, and shielding all cost energy. You regenerate some energy each turn.
+Attacking, kicking, and shielding all cost action points. You regenerate some action points each turn.
 Effects of actions usually involve normal damage and balance damage. If an actor's balance drops to 0, they'll
 take 2 extra damage, except from non-damaging attacks.
 
