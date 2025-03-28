@@ -3,7 +3,7 @@
 This is an RPG than you can play in a terminal emulator.
 It's far from being done, though.
 
-This program is written in the Zig programming language.
+This program is written in the Zig programming language.  
 See this page for installing Zig: https://ziglang.org/learn/getting-started/#direct
 
 ### To compile and run the program:
